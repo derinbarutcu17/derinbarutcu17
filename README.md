@@ -5,6 +5,8 @@ I’m a design engineer in Berlin building AI-native products, interfaces, and l
 <p align="center">
   <a href="https://derinb.vercel.app/"><strong>↗ View my portfolio</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/conduti.studio/">Instagram</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/derinbarutcu_">X</a>
 </p>
 
