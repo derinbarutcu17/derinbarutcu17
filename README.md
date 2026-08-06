@@ -1,28 +1,33 @@
-# Hi, I'm Derin 👋
+# Hi, I’m Derin 👋
 
-I design and build products.
+I’m a design engineer building interfaces, product systems, and local-first tools for AI and developer workflows.
+
+<p align="center">
+  <a href="https://derinb.vercel.app/"><strong>↗ View my portfolio</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/derinbarutcu_">X</a>
+</p>
 
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
 ## Selected Work
 
-- 🧩 [ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar) - Local-first agent context sidecar for CLI, HTTP, and MCP workflows.
-- 🎛️ [SynthKit](https://github.com/derinbarutcu17/SynthKit) - Headless local-first synthesis engine for structured briefs, decision memos, and deck outlines.
-- ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - Design Memory uses deterministic checks to block new design policy violations and reference mismatches in React/Tailwind PRs.
-- 🧭 [Entule](https://github.com/derinbarutcu17/Entule) - A macOS app that saves your current state of apps and resources to reopen them later.
-- 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
-- 👩🏻‍💻 [JobSniper](https://github.com/derinbarutcu17/JobSniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
-- 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
+- **[Design Memory](https://github.com/derinbarutcu17/Design-Memory)** — Deterministic checks that catch design-policy violations and reference mismatches in React/Tailwind changes.
+- **[CostMax](https://github.com/derinbarutcu17/costmaxx)** — Local-first efficiency layer for coding agents; keeps full evidence while reducing model-visible output.
+- **[ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar)** — Context infrastructure for keeping the right project knowledge available across CLI, HTTP, and MCP workflows.
+- **[JobSniper](https://github.com/derinbarutcu17/JobSniper)** — CV-based job discovery and application workflow built around ranking, enrichment, and automation.
+- **[Decisive](https://github.com/derinbarutcu17/decisive)** — Local-first decision matrix for macOS, designed to make trade-offs visible and actionable.
 
 ## More Projects
 
-- 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
-- 🎮 [HangmanApp](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
-- 🚀 [MarsShot](https://github.com/derinbarutcu17/MarsShot) - A rocket launch game developed as my first ever project.
+- **[Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas)** — Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
+- **[Entule](https://github.com/derinbarutcu17/Entule)** — macOS app for saving the current state of apps and resources to reopen later.
+- **[SynthKit](https://github.com/derinbarutcu17/SynthKit)** — Headless local-first synthesis engine for structured briefs, decision memos, and deck outlines.
+- **[Signstream](https://github.com/derinbarutcu17/signstream)** — Sign language learning environment built with React, TypeScript, and Vite.
+- **[Vibe Library](https://github.com/derinbarutcu17/vibe-library)** — Catalog of AI prompt-engineering prompts for beginners and experts.
 
 ## Connect
 
-- [X](https://x.com/derinbarutcu_)
 - [Portfolio](https://derinb.vercel.app/)
+- [X](https://x.com/derinbarutcu_)
