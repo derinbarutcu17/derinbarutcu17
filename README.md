@@ -17,7 +17,7 @@ I’m a design engineer in Berlin building AI-native products, interfaces, and l
 - **[Venture Atlas](https://github.com/derinbarutcu17/VentureAtlas)** — Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
 - **[Entule](https://github.com/derinbarutcu17/Entule)** — macOS app for saving the current state of apps and resources to reopen later.
 - **[Signstream](https://github.com/derinbarutcu17/Signstream)** — Hand-tracking sign language learning app built with MediaPipe and TensorFlow.
-- **[Vibe Library](https://github.com/derinbarutcu17/VibeLibrary)** — Visual prompt library built with Next.js.
+- **[Vibe Library](https://github.com/derinbarutcu17/VibeLibrary)** — A curated archive of prompt engineering patterns, prompt products, and the reasoning behind them. Browse, copy, craft.
 - **[HangmanApp](https://github.com/derinbarutcu17/HangmanApp)** — Classic hangman game built as a simple web app.
 
 ## Systems & Developer Tools
