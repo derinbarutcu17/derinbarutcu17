@@ -26,4 +26,3 @@ I’m a design engineer in Berlin building AI-native products, interfaces, and l
 - **[CostMax](https://github.com/derinbarutcu17/costmaxx)** — 60.6% less model-visible output in audited benchmarks while preserving the full evidence trail.
 - **[ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar)** — Context infrastructure for keeping the right project knowledge available across CLI, HTTP, and MCP workflows.
 - **[SynthKit](https://github.com/derinbarutcu17/SynthKit)** — Headless local-first synthesis engine for structured briefs, decision memos, and deck outlines.
-- [Anti-Claw](https://github.com/derinbarutcu17/Anti-Claw) · [agent-todo](https://github.com/derinbarutcu17/agent-todo)
