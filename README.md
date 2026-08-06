@@ -1,61 +1,28 @@
-<div align="center">
-  <a href="#selected-work">
-    <img src="./assets/sleeve-front.svg" alt="Derin Barutcu — design engineer building serious tools for AI and developer workflows" width="100%" />
-  </a>
-</div>
+# Hi, I'm Derin 👋
 
-<p align="center">
-  <a href="https://derinb.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://x.com/derinbarutcu_">X</a>
-  ·
-  <a href="#selected-work">Selected work</a>
-</p>
+I design and build products.
 
-I’m a design engineer in Berlin building interfaces, product systems, and local-first tools for AI and developer workflows.
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
-## Selected work
+## Selected Work
 
-<div align="center">
-  <a href="#project-notes">
-    <img src="./assets/tracklist.svg" alt="Selected work: Design Memory, CostMax, ContextSidecar, JobSniper, and Decisive" width="100%" />
-  </a>
-</div>
+- 🧩 [ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar) - Local-first agent context sidecar for CLI, HTTP, and MCP workflows.
+- 🎛️ [SynthKit](https://github.com/derinbarutcu17/SynthKit) - Headless local-first synthesis engine for structured briefs, decision memos, and deck outlines.
+- ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - Design Memory uses deterministic checks to block new design policy violations and reference mismatches in React/Tailwind PRs.
+- 🧭 [Entule](https://github.com/derinbarutcu17/Entule) - A macOS app that saves your current state of apps and resources to reopen them later.
+- 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
+- 👩🏻‍💻 [JobSniper](https://github.com/derinbarutcu17/JobSniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
+- 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
 
-### Project notes
+## More Projects
 
-| Project | What it is | Surface |
-| --- | --- | --- |
-| [Design Memory](https://github.com/derinbarutcu17/Design-Memory) | Deterministic checks that catch design-policy violations and reference mismatches in React/Tailwind changes. | TypeScript · CLI · GitHub Action |
-| [CostMax](https://github.com/derinbarutcu17/costmaxx) | Local-first efficiency layer for coding agents; keeps full evidence while reducing model-visible output. | Go · SQLite · MCP |
-| [ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar) | A context layer for keeping the right project knowledge available across agent workflows. | CLI · HTTP · MCP |
-| [JobSniper](https://github.com/derinbarutcu17/JobSniper) | A CV-based job discovery and application workflow built around ranking, enrichment, and automation. | Product · ranking · MCP |
-| [Decisive](https://github.com/derinbarutcu17/decisive) | A local-first decision matrix for macOS, designed to make trade-offs visible and actionable. | macOS · Electron · offline-first |
+- 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
+- 🎮 [HangmanApp](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
+- 🚀 [MarsShot](https://github.com/derinbarutcu17/MarsShot) - A rocket launch game developed as my first ever project.
 
-<details>
-<summary>How I work</summary>
+## Connect
 
-<br />
-
-I care about the seam between intent and implementation: the interaction model, the visual system, the content structure, and the code that makes the whole thing hold together.
-
-The common thread across these projects is straightforward:
-
-- make complex workflows legible;
-- keep important work local and inspectable where possible;
-- measure claims instead of decorating them;
-- ship the interface and the system behind it.
-
-</details>
-
-## More work
-
-[SynthKit](https://github.com/derinbarutcu17/SynthKit) · [Entule](https://github.com/derinbarutcu17/Entule) · [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) · [Signstream](https://github.com/derinbarutcu17/signstream) · [Vibe Library](https://github.com/derinbarutcu17/vibe-library)
-
-<br />
-
-<div align="center">
-  <a href="https://derinb.vercel.app/">derinb.vercel.app</a>
-  ·
-  <a href="https://x.com/derinbarutcu_">@derinbarutcu_</a>
-</div>
+- [X](https://x.com/derinbarutcu_)
+- [Portfolio](https://derinb.vercel.app/)
