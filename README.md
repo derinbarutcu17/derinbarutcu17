@@ -19,7 +19,6 @@ I’m a design engineer in Berlin building AI-native products, interfaces, and l
 - **[Signstream](https://github.com/derinbarutcu17/Signstream)** — Hand-tracking sign language learning app built with MediaPipe and TensorFlow.
 - **[Vibe Library](https://github.com/derinbarutcu17/VibeLibrary)** — Visual prompt library built with Next.js.
 - **[HangmanApp](https://github.com/derinbarutcu17/HangmanApp)** — Classic hangman game built as a simple web app.
-- [GoldenCamera](https://github.com/derinbarutcu17/GoldenCamera) · [Alignment](https://github.com/derinbarutcu17/Alignment) · [EDAWeb](https://github.com/derinbarutcu17/EDAWeb) · [MarsShot](https://github.com/derinbarutcu17/MarsShot)
 
 ## Systems & Developer Tools
 
